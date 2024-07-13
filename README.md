@@ -16,9 +16,4 @@ This project is a web-based code editor built using React and Chakra UI. It allo
 
 ## Installation
 
-To install and run this project locally, follow these steps:
-
-   
-1.   git clone https://github.com/your-username/web-based-code-editor.git
-2.   cd web-based-code-editor
-3.   npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion @monaco-editor/react
+   npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion @monaco-editor/react
